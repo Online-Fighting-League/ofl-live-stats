@@ -7,6 +7,6 @@
         $data = $_POST;
     }
     $fWrite = fopen("log.txt","a");
-    $wrote = fwrite($fWrite, var_dump($_POST));
+    $wrote = fwrite($fWrite, var_dump($data));
     fclose($fWrite);
 ?> 
