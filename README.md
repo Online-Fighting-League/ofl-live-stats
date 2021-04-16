@@ -9,4 +9,4 @@ This is unfinished and very basic.
 You can read how this was made and see the requirements for bulding this on the [documentation](https://onlinefightingleague.com/docs/) page for this project 
 
 ## License
-[MIT](https://github.com/pel-ex/ofl-live-stats/blob/main/LICENSE)
+[MPL](https://github.com/pel-ex/ofl-live-stats/blob/main/LICENSE)
